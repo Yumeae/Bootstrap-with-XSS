@@ -1,0 +1,2 @@
+# Bootstrap-with-XSS
+A poc for Bootstrap XSS(CVE-2024-6485、CVE-2016-10735、CVE-2019-8331、CVE-2018-14040)
