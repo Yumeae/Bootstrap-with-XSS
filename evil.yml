@@ -1,0 +1,11 @@
+url: https://petstore3.swagger.io/api/v3/openapi.json
+validatorUrl: ~
+dom_id: "#swagger-ui"
+deepLinking: true
+presets:
+  - swagger-ui-presets
+  - swagger-ui-standalone-preset
+plugins: []
+layout: StandaloneLayout
+onComplete: |
+  alert(document.domain)
